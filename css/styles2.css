@@ -1,0 +1,34 @@
+body{
+    background-color: orange; 
+    
+}
+h1{
+    background-color: brown;
+    padding: 14px;
+    text-align: center;
+    font-size : 30px;
+}
+*{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.visit{
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 4px;
+}
+h2{
+    background-color: bisque;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+}
+img{
+    margin-bottom: 10px; 
+}
+.list li{
+    margin: 20px;
+}
+.order li{
+    margin: 20px;
+}
