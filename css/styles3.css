@@ -1,0 +1,31 @@
+body{
+    background-color: blanchedalmond;
+    font-family: Verdana, "Geneva", Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+
+h1{
+    text-align: center;
+    background-color: blueviolet;
+    padding: 16px;
+    font-size: 30px;
+}
+h2{
+    text-align: center;
+    background-color: goldenrod;
+    padding: 10px;
+}
+div{
+    text-align: center;
+    padding: 6px;
+    background-color: cadetblue;
+
+}
+.list li{
+    margin: 20px;
+}
+.order li{
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
